@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/starter-project/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/starter-project/static/js/main.9592e644.chunk.js",
-    "main.js.map": "/starter-project/static/js/main.9592e644.chunk.js.map",
-    "runtime-main.js": "/starter-project/static/js/runtime-main.e9dff2b4.js",
-    "runtime-main.js.map": "/starter-project/static/js/runtime-main.e9dff2b4.js.map",
-    "static/js/2.aa86e5fa.chunk.js": "/starter-project/static/js/2.aa86e5fa.chunk.js",
-    "static/js/2.aa86e5fa.chunk.js.map": "/starter-project/static/js/2.aa86e5fa.chunk.js.map",
-    "static/js/3.aa687457.chunk.js": "/starter-project/static/js/3.aa687457.chunk.js",
-    "static/js/3.aa687457.chunk.js.map": "/starter-project/static/js/3.aa687457.chunk.js.map",
-    "index.html": "/starter-project/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/starter-project/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.aa86e5fa.chunk.js.LICENSE.txt": "/starter-project/static/js/2.aa86e5fa.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/starter-project/static/media/logo.6ce24c58.svg"
+    "main.css": "/word-count/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/word-count/static/js/main.9592e644.chunk.js",
+    "main.js.map": "/word-count/static/js/main.9592e644.chunk.js.map",
+    "runtime-main.js": "/word-count/static/js/runtime-main.dc252223.js",
+    "runtime-main.js.map": "/word-count/static/js/runtime-main.dc252223.js.map",
+    "static/js/2.aa86e5fa.chunk.js": "/word-count/static/js/2.aa86e5fa.chunk.js",
+    "static/js/2.aa86e5fa.chunk.js.map": "/word-count/static/js/2.aa86e5fa.chunk.js.map",
+    "static/js/3.aa687457.chunk.js": "/word-count/static/js/3.aa687457.chunk.js",
+    "static/js/3.aa687457.chunk.js.map": "/word-count/static/js/3.aa687457.chunk.js.map",
+    "index.html": "/word-count/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/word-count/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.aa86e5fa.chunk.js.LICENSE.txt": "/word-count/static/js/2.aa86e5fa.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/word-count/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9dff2b4.js",
+    "static/js/runtime-main.dc252223.js",
     "static/js/2.aa86e5fa.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.9592e644.chunk.js"
